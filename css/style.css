@@ -166,6 +166,8 @@ figure {
 
 img {
   vertical-align: middle;
+  width: auto;
+  height: auto;
   border-style: none; }
 
 svg {
