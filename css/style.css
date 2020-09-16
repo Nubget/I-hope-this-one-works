@@ -165,8 +165,8 @@ figure {
   margin: 0 0 1rem; }
 
 img {
-  width: 100px;
-  height:500px;
+ iwidth: auto;
+  height: auto;
   border-style: none; }
 
 svg {
